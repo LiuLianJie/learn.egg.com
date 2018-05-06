@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "egg-bin test",
+    "dev": "egg-bin dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.8.0",
+    "egg-mysql": "^3.0.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.7.0",
+    "egg-mock": "^3.17.1"
+  }
+}
